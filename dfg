@@ -1,0 +1,33 @@
+[33mcommit 4edbec6a2f3cedcb7894cbf52cd859cd5ff9ee03[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Hwang Ji Hun <hhhhicode@gmail.com>
+Date:   Tue Nov 29 18:18:32 2022 +0900
+
+    jekyll just-the-docs theme
+
+[33mcommit ce3bf4859aaeb071655a1d288b4b3928dc348b0e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Hwang Ji Hun <hhhhicode@gmail.com>
+Date:   Tue Nov 29 17:59:56 2022 +0900
+
+    jekyll 설치
+
+[33mcommit 133b465d0f47ba7288d6406f66b7727271b42b4b[m
+Author: hhhhicode <43723223+hhhhicode@users.noreply.github.com>
+Date:   Mon Oct 31 04:43:35 2022 +0900
+
+    index.html 적용을 위해 README.md 제거
+    
+    해당 마크다운을 보여주는걸로 판단.
+
+[33mcommit 0d7a968ea1e145a058a15356cc74e4ba334df0af[m
+Author: hhhhicode <43723223+hhhhicode@users.noreply.github.com>
+Date:   Mon Oct 31 04:41:38 2022 +0900
+
+     index.html 생성
+    
+    작동 테스트. 국룰은 Hello, World!
+
+[33mcommit 9cda176d87e259fc08e44dd893e3eb365ef90694[m
+Author: hhhhicode <43723223+hhhhicode@users.noreply.github.com>
+Date:   Mon Oct 31 04:39:01 2022 +0900
+
+    Initial commit
